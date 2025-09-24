@@ -14,3 +14,66 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# suan - mainPage
+<br>
+🔧 Skills 🔧
+  <table>
+    <tr>
+      <td>Front-end</td>
+    </tr>
+     <tr>
+      <td>JavaScript, jQuery, HTML5, CSS3</td>
+    </tr>
+    <tr>
+      <td>Bak-end</td>
+    </tr>
+    <tr>
+      <td>Java, JSP&Servlet, Python</td>
+    </tr>
+    <tr>
+      <td>Framework/Library</td>
+    </tr>
+    <tr>
+      <td>Spring</td>
+    </tr>
+    <tr>
+      <td>DB</td>
+    </tr>
+    <tr>
+      <td>Oracle</td>
+    </tr>
+    <tr>
+      <td>Tool</td>
+    </tr>
+    <tr>
+      <td>Eclipse, Visual studio Code</td>
+    </tr>
+    <tr>
+      <td>Environment</td>
+    </tr>
+    <tr>
+      <td>Window 10, Tomcat</td>
+    </tr>
+  </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
