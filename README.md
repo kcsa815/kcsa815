@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# suan - mainPage
+# MAIN PAGE
 <br>
 🔧 Skills 🔧
   <table>
@@ -28,13 +28,13 @@ Here are some ideas to get you started:
       <td>Bak-end</td>
     </tr>
     <tr>
-      <td>Java, JSP&Servlet, Python</td>
+      <td> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> , JSP&Servlet, Python</td>
     </tr>
     <tr>
       <td>Framework/Library</td>
     </tr>
     <tr>
-      <td>Spring</td>
+      <td><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> </td>
     </tr>
     <tr>
       <td>DB</td>
