@@ -2,10 +2,10 @@
  <!-- 🌈 MAIN PAGE BANNER -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=SUAN%20MAINPAGE&fontSize=45&fontColor=ffffff" 
+    src="https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=200&section=header&text=SUAN%20MAINPAGE&fontSize=45&fontColor=ffffff&stroke=b6dbe1&strokeWidth=2" 
     width="100%" 
     style="max-width:100%; height:auto;"
-  />
+/>
 </p>
 
 ---
