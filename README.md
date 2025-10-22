@@ -1,11 +1,8 @@
-kcsa815/kcsa815# MAIN PAGE
 
-<br>
-🔧 Skills 🔧
  <!-- 🌈 MAIN PAGE BANNER -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=kcsa%20SUAN&fontSize=45&fontColor=ffffff" 
+    src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=SUAN%20MAINPAGE&fontSize=45&fontColor=ffffff" 
     width="100%" 
     style="max-width:100%; height:auto;"
   />
@@ -52,33 +49,30 @@ kcsa815/kcsa815# MAIN PAGE
 
 ---
 
-## 🪄 Links
-
-<p align="center">
-  <a href="https://velog.io/@kcsa815/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kcsa815" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🌱 GitHub Activity
-
-<!--벨로그, 깃허브 -->
-<div>
-         <a href="https://velog.io/@kcsa815/posts" target="_blank">
-          <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
-        </a>
-        <a href="https://github.com/kcsa815" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-        </a>
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <!-- 🌱 GitHub Activity -->
+  <div class="container1" style="flex: 1;">
+    <h2>🌱 GitHub Activity</h2>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=kcsa815&theme=vue&show_icons=true"/>
+    </div>
+  </div>
+  
+  <!-- 🪄 Links -->
+  <div class="container2" style="flex: 1;">
+    <h2>🪄 Links</h2>
+    <p align="center">
+      <a href="https://velog.io/@kcsa815/posts" target="_blank">
+        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+      </a>
+      <a href="https://github.com/kcsa815" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+      </a>
+    </p>
+  </div>
 </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kcsa815&theme=vue&show_icons=true"/>
-</div>
+
+
 
 ---
 <!--리드미 잔디-->
