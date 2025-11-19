@@ -73,5 +73,5 @@
 
 <!-- 리드미 잔디 -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%"/>
 </p>
