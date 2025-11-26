@@ -9,9 +9,9 @@
 
 
 
-##  Skills
+###  Skills
 
-| 구분 | 기술 스택 |
+|  |  |
 |------|-----------|
 | **Front-end** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFF"/> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/> |
 | **Back-end** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JSP/SERVLET-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> |
@@ -20,31 +20,16 @@
 | **Tools** | <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/> 
 
 
-<hr>
+<br>
 
-<div align="center">
-  <table border="0" cellspacing="40">
-    <tr>
-      <td width="50%" valign="top">
-        <h2>🌱 GitHub Activity</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=kcsa815&theme=vue&show_icons=true" width="100%"/>
-      </td>
-      <td width="50%" valign="top">
-        <h2>🪄 Links</h2>
-        <p align="center">
-          <a href="https://velog.io/@kcsa815/posts" target="_blank">
-            <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
-          </a>
-          <br/>
-          <a href="https://github.com/kcsa815" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+### Links
 
+|  | |
+|-------|---------------------------|
+| GitHub | <a href="https://github.com/kcsa815" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> |
+| Velog | <a href="https://velog.io/@kcsa815/posts" target="_blank"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/> </a> |
+
+<br>
 ---
 
 <!-- 리드미 잔디 -->
